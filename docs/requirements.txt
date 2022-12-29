@@ -41,9 +41,9 @@ gitdb==4.0.7 \
     # via
     #   -r docs/requirements.txt
     #   gitpython
-gitpython==3.1.15 \
-    --hash=sha256:05af150f47a5cca3f4b0af289b73aef8cf3c4fe2385015b06220cbcdee48bb6e \
-    --hash=sha256:a77824e516d3298b04fb36ec7845e92747df8fcfee9cacc32dd6239f9652f867
+gitpython==3.1.30 \
+    --hash=sha256:769c2d83e13f5d938b7688479da374c4e3d49f71549aaf462b646db9602ea6f8 \
+    --hash=sha256:cd455b0000615c60e286208ba540271af9fe531fa6a87cc590a7298785ab2882
     # via -r docs/requirements.txt
 idna==2.10 \
     --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6 \
